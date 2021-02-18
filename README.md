@@ -26,5 +26,7 @@ A beautiful library created by **Ubiwhere** for Draw.IO (nowadays known as [diag
 ## Create your own library
 
 You can follow this awesome guide on how to do it: https://github.com/jgraph/drawio-libs
+
 You can adapt the library available here, but please include its [LICENSE](https://github.com/Ubiwhere/uw-drawio-lib/blob/main/LICENSE) and comply with it.
+
 You can add suggestions to icons you feel missing in the Issues tab of this project, we appreciate it and will try to help out.
